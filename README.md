@@ -1,5 +1,11 @@
 # Computer_Vision_TIL
-Computer Vision Study
+
+> ### 딥러닝 기초
+
+
+***
+
+1. #### 퍼셉트론
 
 
 
