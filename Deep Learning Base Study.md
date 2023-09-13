@@ -99,3 +99,15 @@
   ![Alt text](image-11.png)
 
   ![Alt text](image-12.png)
+
+#### ReLU Function
+
+- ReLU(Rectified Linear Unit, ReLU) 함수는 y = x 인 선형함수가 입력값 0 이라에서부터 rectified(정류)된 함수
+
+  ![Alt text](image-13.png)
+
+- ReLU 함수 특징
+  - 딥러닝 분야에서 가장 많이 사용되는 활성화 함수
+  - Sigmoid, tanh 함수의 Vanashing Gradient 문제 해결
+  - 입력값이 음수일 경우 출력값과 미분값을 모두 0으로 강제하므로 죽은 뉴런을 회생하는 데 어려움 존재
+  - 구현이 단순하고 연산이 필요 없이 임계값(양수/음수 여부)만 활용하므로 연산 속도 빠름
