@@ -41,3 +41,10 @@
 >## 3. Cost function
 
 - 비용 함수(cost function) = 손실 함수(loss function) = 오차 함수(error function) = 목적 함수(objective function)
+
+![Alt text](image-39.png)
+
+
+>## 3. Gradient Descent
+
+- 사용되는 것이 옵티마이저(Optimizer) 알고리즘입니다. 최적화 알고리즘이라고도 부릅니다.
