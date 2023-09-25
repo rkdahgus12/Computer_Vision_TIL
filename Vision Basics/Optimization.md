@@ -4,11 +4,11 @@
 ### 1. 최적화 개념
 - 딥러닝 분야에서 최적화(Optimization)란 손실 함수(Loss Function) 값을 최소화하는 파라미터를 구하는 과정
 
-![Alt text](image-24.png)
+![Alt text](image/image-24.png)
 
 ### 2. 기울기 개념
 
-![Alt text](image-25.png)
+![Alt text](image/image-25.png)
 
 
 ### 3. Gradient Descent
@@ -16,11 +16,11 @@
 - 경사 하강법(Gradient Descent)이란 딥러닝 알고리즘 학습 시 사용되는 최적화 방법
 - 러닝 알고리즘 학습 시 목표는 예측값과 정답값 간의 차이인 손실 함수의 크기를 최소화시키는 파라미터를 찾는 것
 
-![Alt text](image-26.png)
+![Alt text](image/image-26.png)
 
 - 수식
 
-![Alt text](image-27.png)
+![Alt text](image/image-27.png)
 
 - 손실 함수 그래프에서 값이 가장 낮은 지점으로(=손실 함수의 최솟값) 경사를 타고 하강하는 기법을 경사 하강법
 
@@ -39,12 +39,12 @@
 
  - 볼록 함수
 
- ![Alt text](image-28.png)
+ ![Alt text](image/image-28.png)
 
  - 비볼록 함수에서의 문제
  - 경사 하강법 사용 시 파라미터 값의 시작 위치에 따라 최적의 값이 달라진다는 한계
 
- ![Alt text](image-29.png)
+ ![Alt text](image/image-29.png)
 
  - Global Minimum은 목표 함수 그래프 전체를 고려했을 때 최솟값을 의미하고, Local minimum은 그래프 내 일부만 고려했을 때 최솟값을 의미
 
@@ -54,6 +54,6 @@
 
 - 안장점(Saddle Point)을 벗어나지 못함
 
-![Alt text](image-31.png)
-![Alt text](image-30.png)
+![Alt text](image/image-31.png)
+![Alt text](image/image-30.png)
 

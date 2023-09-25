@@ -9,8 +9,8 @@
 
 - 수식
 
-![Alt text](image-14.png)
+![Alt text](image/image-14.png)
 
-![Alt text](image-15.png)
+![Alt text](image/image-15.png)
 
-![Alt text](image-16.png)
+![Alt text](image/image-16.png)
