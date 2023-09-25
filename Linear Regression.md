@@ -33,7 +33,7 @@
 
 >## 2. Hypothesis
 
-- 신 러닝에서 식을 세울때 이 식을 가설(Hypothesis)라고 합니다.
+- 머신 러닝에서 식을 세울때 이 식을 가설(Hypothesis)라고 합니다.
 
 ![Alt text](image-38.png)
 
