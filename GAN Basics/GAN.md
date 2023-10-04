@@ -16,7 +16,12 @@
     - Unsupervied Learning(비지도 학습)
      
       
-      
+
     - **Discriminative model(판별 모델, D)**
     - Sample data가 G(Generative model)로부터 나온 데이터가 아닌, 실제 Training data로부터 나온 데이터일 확률 추정.
     - Supervied Learning(지도 학습)
+
+    - Generative model을 학습하는 과정은 Discriminative model이
+    Smaple 데이터가 G로부터 나온 가짜 데이터와 실제 Training 데이터를 잘 못 판별할 확률을 최대화 하는 것.
+
+    ![Alt text](image-1.png)
