@@ -50,4 +50,4 @@
 
 2. #### 회귀 문제에 활용
 
-    ![Alt text](image/image-23.png)
+    ![Alt text](image/image-23.png)s
